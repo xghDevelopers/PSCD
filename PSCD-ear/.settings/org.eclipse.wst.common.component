@@ -5,6 +5,9 @@
         <dependent-module archiveName="PSCD-ejb-1.0.jar" deploy-path="/" handle="module:/resource/PSCD-ejb/PSCD-ejb">
             <dependency-type>uses</dependency-type>
         </dependent-module>
+        <dependent-module archiveName="ics-mdb-1.0-SNAPSHOT.jar" deploy-path="/" handle="module:/classpath/var/M2_REPO/com/example/ics/ics-mdb/1.0-SNAPSHOT/ics-mdb-1.0-SNAPSHOT.jar">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
         <dependent-module archiveName="PSCD-web-1.0.war" deploy-path="/" handle="module:/resource/PSCD-web/PSCD-web">
             <dependency-type>uses</dependency-type>
         </dependent-module>
