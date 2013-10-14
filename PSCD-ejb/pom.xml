@@ -23,6 +23,30 @@
             <version>7.0</version>
             <scope>provided</scope>
         </dependency>
+        
+        <dependency>
+            <groupId>xghDevelopers</groupId>
+            <artifactId>PSCD-model</artifactId>
+            <version>1.0</version>
+            <type>jar</type>
+        </dependency>
+        
+        <!-- HIBERNATE -->
+        <dependency>
+			<groupId>org.hibernate</groupId>
+			<artifactId>hibernate-core</artifactId>
+			<version>4.2.6.Final</version>
+		</dependency>
+		
+		
+		<!--  POSTGRE  -->
+		<dependency>
+			<groupId>postgresql</groupId>
+			<artifactId>postgresql</artifactId>
+			<version>9.1-901.jdbc4</version>
+		</dependency>
+            
+            
     </dependencies>
 
 
