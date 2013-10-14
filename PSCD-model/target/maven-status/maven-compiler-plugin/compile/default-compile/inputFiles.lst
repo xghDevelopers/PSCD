@@ -1,1 +1,6 @@
-/home/thalles/workspace/java/PSCD/PSCD-model/src/main/java/com/xghDevelopers/model/Dimensao.java
+/home/thalles/workspace/java/PSCD/PSCD-model/src/main/java/com/xghDevelopers/PSCD/model/Pergunta.java
+/home/thalles/workspace/java/PSCD/PSCD-model/src/main/java/com/xghDevelopers/PSCD/model/EntityID.java
+/home/thalles/workspace/java/PSCD/PSCD-model/src/main/java/com/xghDevelopers/PSCD/model/Enum/SituacaoAtivo.java
+/home/thalles/workspace/java/PSCD/PSCD-model/src/main/java/com/xghDevelopers/PSCD/model/Pesquisa.java
+/home/thalles/workspace/java/PSCD/PSCD-model/src/main/java/com/xghDevelopers/PSCD/model/TipoDimensao.java
+/home/thalles/workspace/java/PSCD/PSCD-model/src/main/java/com/xghDevelopers/PSCD/model/Dimensao.java

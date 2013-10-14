@@ -1,1 +1,6 @@
-com/xghDevelopers/model/Dimensao.class
+com/xghDevelopers/PSCD/model/EntityID.class
+com/xghDevelopers/PSCD/model/Enum/SituacaoAtivo.class
+com/xghDevelopers/PSCD/model/Pesquisa.class
+com/xghDevelopers/PSCD/model/Dimensao.class
+com/xghDevelopers/PSCD/model/TipoDimensao.class
+com/xghDevelopers/PSCD/model/Pergunta.class

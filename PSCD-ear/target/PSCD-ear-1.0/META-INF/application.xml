@@ -8,7 +8,7 @@
   <module>
     <web>
       <web-uri>PSCD-web-1.0.war</web-uri>
-      <context-root>/PSCD-web</context-root>
+      <context-root>/pscd</context-root>
     </web>
   </module>
   <library-directory>lib</library-directory>
