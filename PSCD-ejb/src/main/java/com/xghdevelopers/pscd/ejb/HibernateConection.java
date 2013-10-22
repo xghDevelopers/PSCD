@@ -1,4 +1,4 @@
-package com.xghDevelopers.PSCD.EJB;
+package com.xghdevelopers.pscd.ejb;
 
 import java.io.Serializable;
 
@@ -11,10 +11,10 @@ import org.hibernate.cfg.Configuration;
 import org.hibernate.service.ServiceRegistry;
 import org.hibernate.service.ServiceRegistryBuilder;
 
-import com.xghDevelopers.PSCD.model.Dimensao;
-import com.xghDevelopers.PSCD.model.Pergunta;
-import com.xghDevelopers.PSCD.model.Pesquisa;
-import com.xghDevelopers.PSCD.model.TipoDimensao;
+import com.xghdevelopers.pscd.model.Dimensao;
+import com.xghdevelopers.pscd.model.Pergunta;
+import com.xghdevelopers.pscd.model.Pesquisa;
+import com.xghdevelopers.pscd.model.TipoDimensao;
 
 @Singleton
 public class HibernateConection implements Serializable {

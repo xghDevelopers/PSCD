@@ -1,4 +1,4 @@
-package com.xghDevelopers.PSCD.model;
+package com.xghdevelopers.pscd.model;
 
 import javax.persistence.AttributeOverride;
 import javax.persistence.AttributeOverrides;

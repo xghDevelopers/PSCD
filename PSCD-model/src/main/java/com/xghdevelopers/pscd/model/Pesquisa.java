@@ -1,4 +1,4 @@
-package com.xghDevelopers.PSCD.model;
+package com.xghdevelopers.pscd.model;
 
 
 import java.util.Date;
@@ -12,7 +12,7 @@ import javax.persistence.ManyToMany;
 import javax.persistence.Table;
 import javax.persistence.Transient;
 
-import com.xghDevelopers.PSCD.model.Enum.SituacaoAtivo;
+import com.xghdevelopers.pscd.model.enums.SituacaoAtivo;
 
 @Entity
 @Table(name="`XGH_PSCD_PES`")

@@ -1,4 +1,4 @@
-package com.xghDevelopers.PSCD.web;
+package com.xghdevelopers.pscd.web;
 
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;

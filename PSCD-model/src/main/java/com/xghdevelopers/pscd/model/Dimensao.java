@@ -1,4 +1,4 @@
-package com.xghDevelopers.PSCD.model;
+package com.xghdevelopers.pscd.model;
 
 import java.util.Set;
 
